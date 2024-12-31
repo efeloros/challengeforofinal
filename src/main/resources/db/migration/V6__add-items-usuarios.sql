@@ -1,0 +1,1 @@
+INSERT INTO usuarios (nombre, email, contrasena, tipo) VALUES ('Fidel oros', 'fideloros@gmail.com','$2y$12$fFyHHdQJbREuJ1tSRB2pI.PXe44bEPRaj0FtjIJ3nY6Jep7Hi1y1.','ROLE_ADMIN');
